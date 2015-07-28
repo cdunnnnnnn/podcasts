@@ -2,17 +2,19 @@
 
 ## Table of Contents
 
-- [Horror](#horror)
 - [News](#news)
+- [Stories & Variety](#stories-&-variety)
 - [Web](#web)
-
-## Horror
-
-- [Lore](http://aaronmahnke.com/the-lore-podcast/) :+1:
 
 ## News
 
 - [This Morning with Gordon Deal](http://thismorningwithgordondeal.com/) :+1:
+
+## Stories & Variety
+
+- [99% Invisible](http://99percentinvisible.org/)
+- [Lore](http://aaronmahnke.com/the-lore-podcast/) :+1:
+- [Radiolab](http://www.radiolab.org/)
 
 ## Web
 
@@ -23,9 +25,11 @@
 - [The Email Design Podcast - Litmus](https://litmus.com/blog/category/email-design-podcast)
 - [FiveJS](https://fivejs.codeschool.com/)
 - [The Freelance Podcast](http://rjmccollam.com/podcast/)
+- [The Gently Mad](http://avclark.com/tgm/) :+1:
 - [JavaScript Jabber](http://devchat.tv/js-jabber/)
 - [Narwhals](http://www.narwhals.cool/)
 - [Rocketship.fm](http://rocketship.fm/)
 - [Shop Talk Show](http://shoptalkshow.com/) :+1:
 - [Steercast](http://podcast.steer.me/)
+- [This Developer's Life](http://thisdeveloperslife.com/) :+1:
 - [Working Out](http://workingoutpodcast.com/)

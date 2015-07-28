@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [News](#news)
-- [Stories & Variety](#stories-&-variety)
+- [Stories & Variety](#stories--variety)
 - [Web](#web)
 
 ## News

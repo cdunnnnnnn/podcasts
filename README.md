@@ -8,11 +8,11 @@
 
 ## Horror
 
-- [:+1: Lore](http://aaronmahnke.com/the-lore-podcast/)
+- [Lore](http://aaronmahnke.com/the-lore-podcast/) :+1:
 
 ## News
 
-- [:+1: This Morning with Gordon Deal](http://thismorningwithgordondeal.com/)
+- [This Morning with Gordon Deal](http://thismorningwithgordondeal.com/) :+1:
 
 ## Web
 
@@ -26,6 +26,6 @@
 - [JavaScript Jabber](http://devchat.tv/js-jabber/)
 - [Narwhals](http://www.narwhals.cool/)
 - [Rocketship.fm](http://rocketship.fm/)
-- [:+1: Shop Talk Show](http://shoptalkshow.com/)
+- [Shop Talk Show](http://shoptalkshow.com/) :+1:
 - [Steercast](http://podcast.steer.me/)
 - [Working Out](http://workingoutpodcast.com/)

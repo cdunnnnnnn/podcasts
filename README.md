@@ -15,6 +15,7 @@
 - [99% Invisible](http://99percentinvisible.org/)
 - [Lore](http://aaronmahnke.com/the-lore-podcast/) :+1:
 - [Radiolab](http://www.radiolab.org/)
+- [This Developer's Life](http://thisdeveloperslife.com/)
 
 ## Web
 
@@ -31,5 +32,4 @@
 - [Rocketship.fm](http://rocketship.fm/)
 - [Shop Talk Show](http://shoptalkshow.com/) :+1:
 - [Steercast](http://podcast.steer.me/)
-- [This Developer's Life](http://thisdeveloperslife.com/) :+1:
 - [Working Out](http://workingoutpodcast.com/)

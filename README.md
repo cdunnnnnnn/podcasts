@@ -2,9 +2,14 @@
 
 ## Table of Contents
 
+- [Natural Sciences](#natural-sciences)
 - [News](#news)
 - [Stories & Variety](#stories--variety)
 - [Web](#web)
+
+## Natural Sciences
+
+- [Canine Nation](http://www.caninenation.ca/)
 
 ## News
 
